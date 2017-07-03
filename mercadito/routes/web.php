@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('algo', function () {
+    return view('welcome2');
+});
