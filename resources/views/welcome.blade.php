@@ -102,16 +102,16 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="{{ asset('public/principal/images/pic05.jpg') }}" alt="" />
+										<img src="{{ asset('public/principal/images/bisuteria.jpg') }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Consequat</a></h3>
-										<p>Ipsum dolor sit amet</p>
+										<h3><a href="landing.html" class="link">Joyeria y bisuteria</a></h3>
+										<p>Objetos elaborados con productos de fantacia y joyas</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="{{ asset('public/principal/images/pic06.jpg') }}" alt="" />
+										<img src="{{ asset('public/principal/images/maquillaje.jpg') }}" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Etiam</a></h3>
