@@ -22,7 +22,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+						<a href="index.html" class="logo"><strong>MERCADITO</strong> <span>VALORAMOS TU ESFUERZO</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -31,14 +31,14 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.html">Inicio</a></li>
 							<li><a href="landing.html">Landing</a></li>
 							<li><a href="generic.html">Generic</a></li>
 							<li><a href="elements.html">Elements</a></li>
 						</ul>
 						<ul class="actions vertical">
-							<li><a href="#" class="button special fit">Get Started</a></li>
-							<li><a href="#" class="button fit">Log In</a></li>
+							<li><a href="#" class="button special fit">Registro</a></li>
+							<li><a href="#" class="button fit">Inicio de Sesión</a></li>
 						</ul>
 					</nav>
 
@@ -46,13 +46,14 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, my name is Forty</h1>
+								<h1>¿Tienes un producto que vender?</h1>
 							</header>
 							<div class="content">
-								<p>A responsive site template designed by HTML5 UP<br />
-								and released under the Creative Commons.</p>
+								<p>En el "Mercadito" tenemos como mision ofrecer una vitrina
+                                                                    para emprendedores y PYMES con productos artesanles, apoyamos y valoramos 
+                                                                    estos productos.</p>
 								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+									<li><a href="#one" class="button next scrolly">COMENZAR A VENDER</a></li>
 								</ul>
 							</div>
 						</div>
@@ -68,35 +69,35 @@
                                                                             <img src="{{ asset('public/principal/images/gorro.jpg') }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Aliquam</a></h3>
-										<p>Ipsum dolor sit amet</p>
+										<h3><a href="landing.html" class="link">Tejidos</a></h3>
+										<p>Productos de todo tipo y temporada</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="{{ asset('public/principal/images/pic02.jpg') }}" alt="" />
+										<img src="{{ asset('public/principal/images/conservas.jpg') }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Tempus</a></h3>
-										<p>feugiat amet tempus</p>
+										<h3><a href="landing.html" class="link">Consevas</a></h3>
+										<p>Frutas, mermeladas, verduras y mucho mas</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="{{ asset('public/principal/images/pic03.jpg') }}" alt="" />
+										<img src="{{ asset('public/principal/images/diseño.jpg') }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Magna</a></h3>
-										<p>Lorem etiam nullam</p>
+										<h3><a href="landing.html" class="link">Diseño</a></h3>
+										<p>Diseños para toda temporada</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="{{ asset('public/principal/images/pic04.jpg') }}" alt="" />
+										<img src="{{ asset('public/principal/images/botanica.jpg') }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Ipsum</a></h3>
-										<p>Nisl sed aliquam</p>
+										<h3><a href="landing.html" class="link">Botanica</a></h3>
+										<p>Flores y plantas de interior, frutales y decorativas</p>
 									</header>
 								</article>
 								<article>
